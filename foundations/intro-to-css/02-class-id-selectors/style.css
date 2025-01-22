@@ -1,6 +1,6 @@
 .odds {
     background-color: #FFC0CB;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .cool {
@@ -17,3 +17,5 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+/*I could have left out font-size in #four and instead add the .cool class to the <div> */ 
